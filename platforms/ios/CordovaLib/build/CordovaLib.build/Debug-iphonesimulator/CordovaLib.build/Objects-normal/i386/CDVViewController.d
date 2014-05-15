@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVViewController.m \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDV.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVAvailability.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVPlugin.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVViewController.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVWhitelist.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVDebug.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVTimer.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/NSData+Base64.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVJSON.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVConfigParser.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h \
+  /Users/driftyadmin/git/ionic-cli/bin/testApp/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
